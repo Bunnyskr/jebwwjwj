@@ -1,0 +1,41 @@
+{
+	"storyName": "funkiliismo verdad?",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "daniel",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Facilisimo",
+			"daniel",
+			[
+				0,
+				215,
+				0
+			]
+		],
+		[
+			"Verdad",
+			"element",
+			[
+				0,
+				115,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Daniel Week"
+}
